@@ -1,0 +1,1 @@
+{"linker_args": ["-lsfml-window", "-lsfml-system", "-lsfml-graphics"], "include_path": "C:\\Users\\Chou Berting\\Desktop\\fst-sfml\\src\\include", "lib_path": "C:\\Users\\Chou Berting\\Desktop\\fst-sfml\\src\\lib", "file_path": "C:\\Users\\Chou Berting\\Desktop\\fst-sfml"}
